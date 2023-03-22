@@ -1,2 +1,2 @@
-# Numerical-Methods
-In this file you will find the Python code for Numerical methods
+# Mathematics
+In this file you will find the Python code for Mathematical tasks.
